@@ -38,5 +38,14 @@ Benroy Jacob Philip
 B.Tech in Computer Science and Engineering  
 Karunya Institute of Technology and Sciences  
 
-## Note
-This repository will be regularly updated to reflect my ongoing learning and project work.
+... (your existing content)
+
+Note  
+This repository will be regularly updated...
+
+Projects
+ 
+Student Performance Analyzer
+- Developed using Python, NumPy, and CSV
+- Features: grading system, ranking, multi-subject analysis
+- Displays professional table output
